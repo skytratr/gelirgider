@@ -1,0 +1,2 @@
+# gelirgider
+gelir gider
